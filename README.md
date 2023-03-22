@@ -1,5 +1,5 @@
-# edgy_board number b123
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
+# edgy_board number b115
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of the PoE PSE [tps23861](https://www.ti.com/lit/ds/symlink/tps23861.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1679496827255)
 
 ![](/board/board.png)
 
