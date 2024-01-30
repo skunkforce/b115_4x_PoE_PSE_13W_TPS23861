@@ -1,12 +1,5 @@
-# test 1
+# minimal test
 ## setup
-Describe your test setup
+connected b051 and b103 to I2C for 3.3V power and 48V and the input to a b075 to the pin header. 
 ## results
-Describe your results
-
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+b075 initialized and worked.
