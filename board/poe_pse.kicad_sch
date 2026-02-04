@@ -3605,7 +3605,7 @@
 				(hide yes)
 			)
 		)
-		(property "lcsc" "C70066"
+		(property "lcsc" "C151133"
 			(at 225.425 60.96 0)
 			(effects
 				(font
@@ -4822,7 +4822,7 @@
 				(hide yes)
 			)
 		)
-		(property "lcsc" "C70066"
+		(property "lcsc" "C151133"
 			(at 222.885 107.95 0)
 			(effects
 				(font
@@ -5296,7 +5296,7 @@
 				(hide yes)
 			)
 		)
-		(property "lcsc" "C70066"
+		(property "lcsc" "C151133"
 			(at 70.485 86.36 0)
 			(effects
 				(font
@@ -6129,7 +6129,7 @@
 				(hide yes)
 			)
 		)
-		(property "lcsc" "C70066"
+		(property "lcsc" "C151133"
 			(at 95.885 68.58 0)
 			(effects
 				(font
